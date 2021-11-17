@@ -1,0 +1,38 @@
+body{
+  font-family: sans-serif;
+  font-style: italic;
+  line-height: normal;
+}
+hr{
+  border-style:none;
+  border-top-style: dotted;
+  border-color: SandyBrown;
+  border-width: 13px;
+  width: 3%;
+}
+.blueback{
+  background-color: #00BFFF;
+}
+.exsansserif { font-family: Arial, Helvetica, sans-serif;}
+.Mainphoto{
+  width: 350px;
+  height: 450px;
+}
+.blueH2{
+    background-color: #00BFFF;
+    width: 370px;
+}
+.auqaH3{
+  background-color: #00FFFF;
+  width: 280px;
+}
+.bisqueH{
+  background-color: #FFE4C4;
+}
+#strongh4{
+  background-color: SandyBrown;
+  width: 130px;
+}
+A:visited {
+    color: red;
+  }
